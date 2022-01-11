@@ -30,7 +30,7 @@ We create new branches to branch out from the original source code and different
 
 
 3. What is the purpose of a pull request? 
-Pulling updates your current work in the branch to the rest of the repos
+A pull request lets others know about changes that have been pushed to a branch in a repos
 
 
 4. What is the command you can use to switch between branches? For example you are working on a feature branch and you want to switch back to main. 
